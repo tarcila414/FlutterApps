@@ -11,7 +11,7 @@
 1. Racha Conta
   A simple app to calculate each customer's bill at a restaurant table
 
-<img src="./readmeImg/RachaContaTela1.png" style="width:5px"> <img src="./readmeImg/RachaContaTela2.png" style="width:5px"><img src="./readmeImg/RachaContaTela4.png" style="width:5px">
+<img src="./readmeImg/RachaContaTela1.png" style="width:5px"> <img src="./readmeImg/RachaContaTela2.png" style="width:5px"><img src="./readmeImg/RachaContaTela3.png" style="width:5px"><img src="./readmeImg/RachaContaTela4.png" style="width:5px">
 
 ## Meta :raising_hand:
 
