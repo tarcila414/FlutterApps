@@ -4,7 +4,7 @@
 > ![Badge](https://img.shields.io/static/v1?label=flutter&message=2.0.1&color=blue&style=for-the-badge&logo=FLUTTER) ![Badge](https://img.shields.io/static/v1?label=dart&message=2.12.0&color=blue&style=for-the-badge&logo=DART) 
  
  
- * Racha Conta
+ * Racha Conta -> racha_conta_app
  
 
 
