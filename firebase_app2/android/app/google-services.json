@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "17386820997",
+    "project_id": "projeto-exemplo-18a77",
+    "storage_bucket": "projeto-exemplo-18a77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17386820997:android:1987fc67a39a34b6c6a0ec",
+        "android_client_info": {
+          "package_name": "pucminas.br.firebase_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17386820997-m2pmid07be176ui6for729qiq94gh4ng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKKWAkybD3iweT9qTi-wXvESYDk7Co6cA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17386820997-m2pmid07be176ui6for729qiq94gh4ng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
